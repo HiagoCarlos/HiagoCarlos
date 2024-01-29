@@ -9,7 +9,7 @@
 <div display>
 <a href="https://github.com/HiagoCarlos">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=HiagoCarlos&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoCarlos&layout=compact&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoCarlos&layout=compact&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"></a>
   
 </div>
 
