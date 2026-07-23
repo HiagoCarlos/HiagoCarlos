@@ -1,158 +1,150 @@
 <h1 align="center">Olá, eu sou Hiago Carlos 👋</h1>
 
-<h3 align="center">
-Desenvolvedor Full Stack • Java • Spring Boot • React • TypeScript
-</h3>
+<h3 align="center">Desenvolvedor Full Stack • Java • Spring Boot • React • TypeScript</h3>
 
 <p align="center">
-Desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de soluções modernas.
-Atualmente estudo e desenvolvo aplicações Full Stack utilizando Java, Spring Boot, React, TypeScript e bancos de dados relacionais e NoSQL.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Java+%2B+Spring+Boot+%E2%98%95;React+%2B+TypeScript+%E2%9A%9B%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de soluções modernas.<br/>
+  Atualmente estudo e desenvolvo aplicações Full Stack utilizando Java, Spring Boot, React, TypeScript e bancos de dados relacionais e NoSQL.
+</p>
 
-# 🚀 Sobre mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiagocarlos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hiagocarlos251@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HiagoCarlos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://hiagocarlos.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
-- 🎓 Tecnologia em Sistemas para Internet - IF Goiano
+<br/>
+
+## 🚀 Sobre mim
+
+- 🎓 Tecnologia em Sistemas para Internet — IF Goiano
 - 💻 Desenvolvedor Full Stack
-- 📍 Goiás - Brasil
-- 🌱 Atualmente estudando arquitetura de software, Docker e boas práticas de desenvolvimento.
-- 📚 Sempre buscando aprender novas tecnologias.
+- 📍 Goiás, Brasil
+- 🌱 Estudando arquitetura de software, Docker e boas práticas de desenvolvimento
+- 📚 Sempre buscando aprender novas tecnologias
+- ⚡ Curiosidade: gosto de transformar ideias em produtos funcionais, do back-end à interface
 
----
+<br/>
 
-# 🛠 Tecnologias
+## 🛠 Tecnologias
 
-### Front-end
-
+**Front-end**
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,flutter,dart"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,flutter,dart"/>
 </p>
 
-### Back-end
-
+**Back-end**
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php"/>
 </p>
 
-### Banco de Dados
-
+**Banco de Dados**
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 </p>
 
-### Ferramentas
-
+**Ferramentas**
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
 </p>
 
----
+<br/>
 
-# 📌 Principais Projetos
+## 📌 Principais Projetos
 
-## 🚀 Sistema SaaS
-
+### 🚀 Sistema SaaS
 Sistema Full Stack utilizando Java Spring Boot com autenticação, APIs REST e banco de dados SQL.
 
-🔗 https://github.com/HiagoCarlos/SaaS_BackEnd
+<p>
+  <a href="https://github.com/HiagoCarlos/SaaS_BackEnd">
+    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
----
-
-## 🎓 Sistema de Gestão Escolar
-
+### 🎓 Sistema de Gestão Escolar
 Sistema web para gerenciamento de alunos, professores e turmas.
 
-💻 Demo
+<p>
+  <a href="https://sistema-escola-rouge.vercel.app/dashboard">
+    <img src="https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HiagoCarlos/Sistema_Escola">
+    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-https://sistema-escola-rouge.vercel.app/dashboard
-
-📂 Código
-
-https://github.com/HiagoCarlos/Sistema_Escola
-
----
-
-## 💬 Chat em Java
-
+### 💬 Chat em Java
 Aplicação cliente-servidor utilizando Java, Sockets e Threads.
 
-https://github.com/HiagoCarlos/trabalho_final
+<p>
+  <a href="https://github.com/HiagoCarlos/trabalho_final">
+    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
----
-
-## 🎮 Bingo Online
-
+### 🎮 Bingo Online
 Sistema online desenvolvido em Node.js.
 
-https://bingo-fest.onrender.com/
+<p>
+  <a href="https://bingo-fest.onrender.com/">
+    <img src="https://img.shields.io/badge/Acessar-000000?style=flat-square&logo=render&logoColor=white"/>
+  </a>
+</p>
 
----
-
-## 📄 Projeto CPT
-
+### 📄 Projeto CPT
 Sistema web para gerenciamento de notificações.
 
-https://github.com/HiagoCarlos/Projeto-CPT-INS-DIR
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoCarlos&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoCarlos&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p>
+  <a href="https://github.com/HiagoCarlos/Projeto-CPT-INS-DIR">
+    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
+<br/>
 
-# 🔥 Sequência de Contribuições
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=HiagoCarlos&theme=github-dark&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoCarlos&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoCarlos&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
+## 🔥 Sequência de Contribuições
 
-# 📫 Contato
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HiagoCarlos&theme=github-dark&hide_border=true"/>
+</p>
+
+<br/>
+
+## 📫 Contato
 
 <p>
-
-<a href="https://www.linkedin.com/in/hiagocarlos">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hiagocarlos251@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HiagoCarlos">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://hiagocarlos.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/hiagocarlos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hiagocarlos251@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HiagoCarlos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://hiagocarlos.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
----
-
-<p align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</p>
+<p align="center">⭐ Obrigado por visitar meu perfil!</p>
