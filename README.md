@@ -63,64 +63,6 @@
 
 <br/>
 
-## 📌 Principais Projetos
-
-### 🚀 Sistema SaaS
-Sistema Full Stack utilizando Java Spring Boot com autenticação, APIs REST e banco de dados SQL.
-
-<p>
-  <a href="https://github.com/HiagoCarlos/SaaS_BackEnd">
-    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### 🎓 Sistema de Gestão Escolar
-Sistema web para gerenciamento de alunos, professores e turmas.
-
-<p>
-  <a href="https://sistema-escola-rouge.vercel.app/dashboard">
-    <img src="https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/HiagoCarlos/Sistema_Escola">
-    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### 💬 Chat em Java
-Aplicação cliente-servidor utilizando Java, Sockets e Threads.
-
-<p>
-  <a href="https://github.com/HiagoCarlos/trabalho_final">
-    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### 🎮 Bingo Online
-Sistema online desenvolvido em Node.js.
-
-<p>
-  <a href="https://bingo-fest.onrender.com/">
-    <img src="https://img.shields.io/badge/Acessar-000000?style=flat-square&logo=render&logoColor=white"/>
-  </a>
-</p>
-
-### 📄 Projeto CPT
-Sistema web para gerenciamento de notificações.
-
-<p>
-  <a href="https://github.com/HiagoCarlos/Projeto-CPT-INS-DIR">
-    <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoCarlos&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoCarlos&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ## 🔥 Sequência de Contribuições
 
